@@ -1,0 +1,22 @@
+nav{
+    background-color: blue;
+    text-decoration-color: cornsilk;
+}
+li{
+    float: left;
+}
+nav > ul > li > a{
+    padding: 20px 30px;
+    color: #fff;
+}
+p{
+    color: crimson;
+}
+nav a{
+    display: inline-block;
+}
+
+#Ouvrir{
+    margin-right: 50px;
+    padding: 20px;
+}
